@@ -1,0 +1,6 @@
+print("Hello python")
+console.log("Hello Javascript")
+echo "Hello bash"
+
+
+
